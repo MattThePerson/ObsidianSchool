@@ -13,3 +13,5 @@ A change from somewhere else ...
 Fuckin ghell
 
 Lets try this again
+
+Ok, first commit from desktop!!
