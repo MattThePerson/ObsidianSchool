@@ -1,5 +1,7 @@
-Notes: [[AI Notes Dashboard]]
+#Course 
+
 Semester Dashboard: [[_Semester Dashboard (Y3 S2)]]
+Notes: [[AI Notes Dashboard]]
 
 - [[#About]]
 - [[#Tasks]]
