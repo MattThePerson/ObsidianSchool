@@ -1,3 +1,5 @@
+Notes: [[AI Notes Dashboard]]
+Semester Dashboard: [[_Semester Dashboard (Y3 S2)]]
 
 - [[#About]]
 - [[#Tasks]]
